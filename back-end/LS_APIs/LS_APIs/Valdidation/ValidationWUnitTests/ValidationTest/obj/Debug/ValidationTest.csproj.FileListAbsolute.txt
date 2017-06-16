@@ -1,0 +1,14 @@
+E:\Users\Nathan Nickel\My Documents\cap stone\Validation\ValidationTest\bin\Debug\ValidationTest.dll
+E:\Users\Nathan Nickel\My Documents\cap stone\Validation\ValidationTest\bin\Debug\ValidationTest.pdb
+E:\Users\Nathan Nickel\My Documents\cap stone\Validation\ValidationTest\bin\Debug\Validation.dll
+E:\Users\Nathan Nickel\My Documents\cap stone\Validation\ValidationTest\bin\Debug\Validation.pdb
+E:\Users\Nathan Nickel\My Documents\cap stone\Validation\ValidationTest\obj\Debug\ValidationTest.csprojResolveAssemblyReference.cache
+E:\Users\Nathan Nickel\My Documents\cap stone\Validation\ValidationTest\obj\Debug\ValidationTest.dll
+E:\Users\Nathan Nickel\My Documents\cap stone\Validation\ValidationTest\obj\Debug\ValidationTest.pdb
+E:\Users\Nathan Nickel\My Documents\backend\LS_APIs\LS_APIs\Valdidation\ValidationWUnitTests\ValidationTest\bin\Debug\ValidationTest.dll
+E:\Users\Nathan Nickel\My Documents\backend\LS_APIs\LS_APIs\Valdidation\ValidationWUnitTests\ValidationTest\bin\Debug\ValidationTest.pdb
+E:\Users\Nathan Nickel\My Documents\backend\LS_APIs\LS_APIs\Valdidation\ValidationWUnitTests\ValidationTest\bin\Debug\Validation.dll
+E:\Users\Nathan Nickel\My Documents\backend\LS_APIs\LS_APIs\Valdidation\ValidationWUnitTests\ValidationTest\bin\Debug\Validation.pdb
+E:\Users\Nathan Nickel\My Documents\backend\LS_APIs\LS_APIs\Valdidation\ValidationWUnitTests\ValidationTest\obj\Debug\ValidationTest.csprojResolveAssemblyReference.cache
+E:\Users\Nathan Nickel\My Documents\backend\LS_APIs\LS_APIs\Valdidation\ValidationWUnitTests\ValidationTest\obj\Debug\ValidationTest.dll
+E:\Users\Nathan Nickel\My Documents\backend\LS_APIs\LS_APIs\Valdidation\ValidationWUnitTests\ValidationTest\obj\Debug\ValidationTest.pdb

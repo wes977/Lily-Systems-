@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="LSAPIs2017-5" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\Wesley\\Desktop\\ls_apis\\LS_APIs\\LS_APIs\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\Users\\Wesley\\Desktop\\ls_apis\\LS_APIs\\LS_APIs\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="conn-Web.config Connection String" description="" value="Password=Conestoga1;Persist Security Info=True;User ID=sa;Initial Catalog=Lily;Data Source=2A314-E08\SQLDEVELOPER" tags="">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Wesley\\Desktop\\ls_apis\\LS_APIs\\LS_APIs\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='conn']/@connectionString" />
+  </parameter>
+</parameters>

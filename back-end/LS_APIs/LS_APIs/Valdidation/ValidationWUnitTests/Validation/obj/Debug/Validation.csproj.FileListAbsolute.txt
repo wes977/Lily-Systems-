@@ -1,0 +1,10 @@
+E:\Users\Nathan Nickel\My Documents\cap stone\Validation\Validation\bin\Debug\Validation.dll
+E:\Users\Nathan Nickel\My Documents\cap stone\Validation\Validation\bin\Debug\Validation.pdb
+E:\Users\Nathan Nickel\My Documents\cap stone\Validation\Validation\obj\Debug\Validation.csprojResolveAssemblyReference.cache
+E:\Users\Nathan Nickel\My Documents\cap stone\Validation\Validation\obj\Debug\Validation.dll
+E:\Users\Nathan Nickel\My Documents\cap stone\Validation\Validation\obj\Debug\Validation.pdb
+E:\Users\Nathan Nickel\My Documents\backend\LS_APIs\LS_APIs\Valdidation\ValidationWUnitTests\Validation\bin\Debug\Validation.dll
+E:\Users\Nathan Nickel\My Documents\backend\LS_APIs\LS_APIs\Valdidation\ValidationWUnitTests\Validation\bin\Debug\Validation.pdb
+E:\Users\Nathan Nickel\My Documents\backend\LS_APIs\LS_APIs\Valdidation\ValidationWUnitTests\Validation\obj\Debug\Validation.csprojResolveAssemblyReference.cache
+E:\Users\Nathan Nickel\My Documents\backend\LS_APIs\LS_APIs\Valdidation\ValidationWUnitTests\Validation\obj\Debug\Validation.dll
+E:\Users\Nathan Nickel\My Documents\backend\LS_APIs\LS_APIs\Valdidation\ValidationWUnitTests\Validation\obj\Debug\Validation.pdb
